@@ -15,8 +15,8 @@
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=naze-md&theme=vision-friendly-dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=naze&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=nazedev&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=daffapratamaaa&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=daffapratamaaa&theme=nightowl)
 
 
 <details>
