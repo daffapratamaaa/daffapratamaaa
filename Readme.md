@@ -14,7 +14,7 @@
 <p align="center"><a href="https://github.com/daffapratamaaa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffapratamaaa&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=naze-md&theme=vision-friendly-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=daffapratamaaa&theme=vision-friendly-dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=daffapratamaaa&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=daffapratamaaa&repo=daffapratamaaa&theme=nightowl)
 
